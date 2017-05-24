@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "654002068515",
+    "project_id": "LojaVirtualApp-push"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654002068515:android:befbb9b6a7c52c46",
+        "android_client_info": {
+          "package_name": "pt.iscte.daam.appvirtual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2PfbnDb5H_TteX_uIsjgr4dgj-gn6-U8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
